@@ -1,4 +1,6 @@
-# Currency Quick Convert 🪙
+# Money Convertor 🪙
+
+100% AI slop
 
 A lightweight Google Chrome extension that allows you to instantly convert currencies by simply selecting text on any webpage. It features a smart overlay button for quick access and full support for multiple exchange rate sources.
 
